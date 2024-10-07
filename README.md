@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Oumayma Ouerfelli</h1>
-<h3 align="center">4rth Year Software Engineering student at INSAT
+<h3 align="center"> Final Year Software Engineering student at INSAT
 
 # A passionate software developer</h3>
 
