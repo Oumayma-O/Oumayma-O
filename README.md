@@ -1,22 +1,19 @@
+# Hi 👋, I'm Oumayma Ouerfelli
 
-<h1 align="center">Hi 👋, I'm Oumayma Ouerfelli</h1>
-<h3 align="center"> AI Software Engineer
-
+### AI Software Engineer
 
 <img align="right" alt="Coding" width="400" src="https://i.ytimg.com/vi/_huo7KMp2Ww/maxresdefault.jpg">
 
- `Tech is my toolkit, and here's why:`
+**Tech is my toolkit, and here's why:**
 
-- `Problem Solver`: It's my go-to for crafting efficient solutions, much like a reliable tool in my kit.
+- **Problem Solver**: It's my go-to for crafting efficient solutions, much like a reliable tool in my kit.
+- **Data Enthusiast**: I love using algorithms to shape unique experiences in web and mobile development, adding a touch of data magic.
+- **Innovation Explorer**: Whether designing websites or mobile apps, diving into `NLP` and `Computer Vision` is my way of exploring new frontiers in tech.
 
-- `Data Enthusiast`: I love using algorithms to shape unique experiences in web and mobile development, adding a touch of data magic.
+### Connect with me:
 
-- `Innovation Explorer`: Whether designing websites or mobile apps, diving into `NLP` and `Computer Vision` is my way of exploring new frontiers in tech.
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/oumaymaouerfelli)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/oumayma ouerfelli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oumayma ouerfelli" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">As a software Engineering student, I am familiar with :</h3>
 <h3 align="left">Languages and Tools:</h3>
