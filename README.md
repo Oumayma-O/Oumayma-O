@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Oumayma Ouerfelli</h1>
-<h3 align="center"> Final Year Software Engineering student at INSAT
+<h3 align="center"> AI Software Engineer
 
-# A passionate software developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.ytimg.com/vi/_huo7KMp2Ww/maxresdefault.jpg">
 
