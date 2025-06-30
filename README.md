@@ -12,8 +12,9 @@
 
 ### Connect with me:
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/oumaymaouerfelli)
-
+<a href="https://linkedin.com/in/oumaymaouerfelli" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30">
+</a>
 
 <h3 align="left">As a software Engineering student, I am familiar with :</h3>
 <h3 align="left">Languages and Tools:</h3>
